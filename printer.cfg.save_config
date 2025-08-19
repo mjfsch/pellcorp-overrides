@@ -1,0 +1,31 @@
+
+#*# <---------------------- SAVE_CONFIG ---------------------->
+#*# DO NOT EDIT THIS BLOCK OR BELOW. The contents are auto-generated.
+#*#
+#*# [probe]
+#*# z_offset = 3.730
+#*#
+#*# [bed_mesh default]
+#*# version = 1
+#*# points =
+#*# 	-0.140625, -0.107031, -0.059375, -0.070313, -0.158594
+#*# 	-0.107813, -0.072656, -0.017969, -0.025781, -0.119531
+#*# 	-0.066406, -0.039844, -0.003125, -0.016406, -0.117188
+#*# 	-0.006250, 0.011719, 0.044531, 0.028125, -0.079688
+#*# 	0.091406, 0.094531, 0.110156, 0.071094, -0.023438
+#*# x_count = 5
+#*# y_count = 5
+#*# mesh_x_pps = 2
+#*# mesh_y_pps = 2
+#*# algo = bicubic
+#*# tension = 0.2
+#*# min_x = 25.0
+#*# max_x = 194.0
+#*# min_y = 10.0
+#*# max_y = 160.0
+#*#
+#*# [input_shaper]
+#*# shaper_type_x = mzv
+#*# shaper_freq_x = 47.2
+#*# shaper_type_y = mzv
+#*# shaper_freq_y = 47.2
