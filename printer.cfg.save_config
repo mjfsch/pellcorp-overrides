@@ -29,3 +29,9 @@
 #*# shaper_freq_x = 47.2
 #*# shaper_type_y = mzv
 #*# shaper_freq_y = 47.2
+#*#
+#*# [heater_bed]
+#*# control = pid
+#*# pid_kp = 63.269
+#*# pid_ki = 0.684
+#*# pid_kd = 1463.889
